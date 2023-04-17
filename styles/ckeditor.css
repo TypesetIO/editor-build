@@ -1,0 +1,9 @@
+.ck-editor__editable {
+  border: 'none !important';
+  box-shadow: 'none !important';
+}
+
+.ck-editor__editable_inline {
+  border: 'none !important';
+  box-shadow: 'none !important';
+}
